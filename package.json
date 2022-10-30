@@ -1,0 +1,24 @@
+{
+  "name": "complete",
+  "version": "1.0.0",
+  "description": "First Node Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekch405/NODE_SERVER.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekch405/NODE_SERVER/issues"
+  },
+  "homepage": "https://github.com/abhishekch405/NODE_SERVER#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
